@@ -2,6 +2,9 @@ def summary(a, b):
     return a + b
 
 
+x = "привет Мир!"
+
+
 def min(a, b):
     return a - b
 
